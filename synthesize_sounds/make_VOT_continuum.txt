@@ -2,10 +2,6 @@
 ###########################################################################
 ## Make VOT continuum wizard
 ##
-## Matthew B. Winn 
-##
-## Version 10
-## August 2014
 ##
 ## Three basic strategies:
 ##   1) Control VOT and F0 independently: say "NO" to covary
